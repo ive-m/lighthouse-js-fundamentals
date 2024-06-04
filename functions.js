@@ -1,7 +1,4 @@
-//UDACITY ACTIVITIES
 
-//parameter: variable name and appears in the function declaration
-//argument: actual data that is passed into the function when is called
 
 
 /*function laugh(num){
@@ -104,7 +101,7 @@ var laugh = function (num) {
 
   emotions('happy',laugh)  ;
 
-  //theirs
+  //other
   
 // emotions() function definition
 function emotions(myString, myFunc) {
