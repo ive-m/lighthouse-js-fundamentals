@@ -1,6 +1,4 @@
-/*function concat(first,second) {
-  return first.concat(second);
-}*/
+
 
 function merge(first, second) {
   return first.concat(second).sort();
